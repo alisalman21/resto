@@ -1,0 +1,102 @@
+{
+  "Restorant": [
+    {
+      "id": 1,
+      "name": "pizza Hut",
+      "email": "pizza@test.com",
+      "addres": "khuhra",
+      "rating": "4.3"
+    },
+    {
+      "id": 2,
+      "name": "Hut",
+      "email": "hut@test.com",
+      "addres": "gambat city",
+      "rating": "4.2"
+    },
+    {
+      "id": 3,
+      "name": "bugerHut",
+      "addres": "karachi",
+      "email": "burge@test.com",
+      "rating": "4.4"
+    },
+    {
+      "id": 4,
+      "name": "rollHut",
+      "email": "roll@test.com",
+      "addres": "lahore city",
+      "rating": "4.6"
+    },
+    {
+      "id": 5,
+      "name": "nihari Hut",
+      "addres": "khuhra",
+      "email": "nihari@test.com",
+      "rating": "4.9"
+    },
+    {
+      "id": 6,
+      "name": "KFC",
+      "email": "kfc@gmail.com",
+      "addres": "lahor supper marker",
+      "rating": "4.9"
+    },
+    {
+      "id": 7,
+      "name": "Afridi INN",
+      "email": "inn@gmail.com",
+      "addres": "karachi",
+      "rating": "4.6"
+    },
+    {
+      "id": 9,
+      "name": "Tajj hotel",
+      "email": "tajj@test.com",
+      "addres": "gambat ranipur road",
+      "rating": "4.8"
+    },
+    {
+      "id": 10,
+      "name": "basera mirchi hotel",
+      "email": "basera@test.com",
+      "addres": "gambat",
+      "rating": "3.8"
+    },
+    {
+      "name": "Balochistan Saji",
+      "email": "saji@gmail.com",
+      "addres": "karachi",
+      "rating": "4.7",
+      "id": 14
+    },
+    {
+      "name": "Royel inn",
+      "email": "inn@gmail.com",
+      "addres": "ranipur road",
+      "rating": "4.7",
+      "id": 15
+    },
+    {
+      "id": 16,
+      "name": "Qalandari hotel",
+      "email": "qalandari hotel@gmail.com",
+      "addres": "gambat bypass near alnoor cng ",
+      "rating": "4.7"
+    },
+    {
+      "name": "Mirchi 360",
+      "email": "360@test.com",
+      "addres": "nawabshah",
+      "rating": "4.2",
+      "id": 17
+    },
+    {
+      "name": "hotel dehli",
+      "email": "dehli@test.com",
+      "addres": "new dehli",
+      "rating": "4.6",
+      "id": 18
+    }
+  ]
+}
